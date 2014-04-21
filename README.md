@@ -7,5 +7,6 @@ AIML based bot
 
 python2.7 ./politics-aiml.py "hello"
 
-**Run as module**
+**Run as module:**
+
 Use AimlBot class and method run()
