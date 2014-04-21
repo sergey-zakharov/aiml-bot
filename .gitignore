@@ -1,0 +1,4 @@
+venv
+*.pyc
+.fuse_hidden*
+*.zip
