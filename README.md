@@ -1,0 +1,11 @@
+aiml-bot
+========
+
+AIML based bot
+
+**Run for testing:**
+
+python2.7 ./politics-aiml.py "hello"
+
+**Run as module**
+Use AimlBot class and method run()
